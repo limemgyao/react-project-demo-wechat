@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>编组 7</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="21" cy="21" r="21"></circle>
+        <filter x="-14.3%" y="-14.3%" width="128.6%" height="128.6%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0562991696 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="页面-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编组-6" transform="translate(4.000000, 4.000000)">
+            <g id="编组">
+                <g id="椭圆形">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="rgb(17, 181, 210)" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+                <path d="M25.746,19.52055 L16.910775,28.35 L13.125,28.35 L13.125,24.566325 L21.960225,15.736875 L25.746,19.52055 Z M26.48835,18.778725 L22.7031,14.99505 L23.7405,13.958175 C24.1504647,13.5486237 24.8147103,13.5486237 25.224675,13.958175 L25.2252,13.95765 L27.526275,16.2561 C27.7232802,16.4530254 27.8339633,16.7201615 27.8339633,16.9987125 C27.8339633,17.2772635 27.7232802,17.5443996 27.526275,17.741325 L26.48835,18.778725 L26.48835,18.778725 Z M21.525,26.24265 L27.825,26.24265 C28.404609,26.24265 28.874475,26.712516 28.874475,27.292125 C28.874475,27.871734 28.404609,28.3416 27.825,28.3416 L21.525,28.3416 C20.945391,28.3416 20.475525,27.871734 20.475525,27.292125 C20.475525,26.712516 20.945391,26.24265 21.525,26.24265 Z" id="形状" fill="#FFFFFF" fill-rule="nonzero"></path>
+            </g>
+            <g id="编辑" transform="translate(8.400000, 8.400000)" fill="#000000" fill-rule="nonzero" opacity="0">
+                <rect id="矩形" x="0" y="0" width="25.2" height="25.2"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

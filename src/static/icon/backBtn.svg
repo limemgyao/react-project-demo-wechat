@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 42 42" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>编组 4备份 2</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编组-4备份-2">
+            <circle id="椭圆形" fill="#6287EC" cx="21" cy="21" r="21"></circle>
+            <g id="后退_上一步_左箭头_上一页" transform="translate(12.000000, 13.000000)" fill-rule="nonzero">
+                <rect id="矩形" fill="#000000" opacity="0" x="0" y="0" width="16" height="16"></rect>
+                <path d="M5.5734375,7.96609375 L12.190625,14.553125 C12.503125,14.8642187 12.503125,15.369375 12.190625,15.6803125 C11.8782813,15.9914062 11.3707813,15.9914062 11.0582813,15.6803125 L3.911875,8.56640625 C3.74671875,8.401875 3.66703125,8.18203125 3.6790625,7.96609375 C3.6690625,7.75015625 3.74671875,7.5303125 3.911875,7.36578125 L11.05625,0.251875 C11.36875,-0.0590625 11.87625,-0.0590625 12.1885938,0.251875 C12.5010938,0.56296875 12.5010938,1.068125 12.1885938,1.3790625 L5.5734375,7.96609375 Z" id="路径" fill="#ffffff"></path>
+            </g>
+        </g>
+    </g>
+</svg>
